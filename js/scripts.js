@@ -1,3 +1,9 @@
 // My Scripts
 
-document.write("Hello World!");
+$("#owl-example").owlCarousel( {
+
+paginationspeed : 400, 
+autoPlay : true, 
+singleItem: true
+
+});

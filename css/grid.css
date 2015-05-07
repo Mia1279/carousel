@@ -1,5 +1,10 @@
 /* Global
 ================================ */
+* {
+	-webkit-box-sizing: boarder-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
 
 .grid-container {
 	padding-left: 10px;
